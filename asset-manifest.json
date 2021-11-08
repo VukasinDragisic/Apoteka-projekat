@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Apoteka-projekat/static/js/main.6b0c3a08.chunk.js",
+    "main.js.map": "/Apoteka-projekat/static/js/main.6b0c3a08.chunk.js.map",
+    "runtime-main.js": "/Apoteka-projekat/static/js/runtime-main.841cef81.js",
+    "runtime-main.js.map": "/Apoteka-projekat/static/js/runtime-main.841cef81.js.map",
+    "static/js/2.e5306f0a.chunk.js": "/Apoteka-projekat/static/js/2.e5306f0a.chunk.js",
+    "static/js/2.e5306f0a.chunk.js.map": "/Apoteka-projekat/static/js/2.e5306f0a.chunk.js.map",
+    "index.html": "/Apoteka-projekat/index.html",
+    "static/js/2.e5306f0a.chunk.js.LICENSE.txt": "/Apoteka-projekat/static/js/2.e5306f0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.841cef81.js",
+    "static/js/2.e5306f0a.chunk.js",
+    "static/js/main.6b0c3a08.chunk.js"
+  ]
+}
