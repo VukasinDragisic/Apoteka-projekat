@@ -1,0 +1,336 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Broncamil sirup 200ml",
+      "brand": "Pharmalife",
+      "price": "765.00",
+      "info": "Razređuje nagomilani sekret u disajnim putevima i olakšavanje iskašljavanje. Ovaj biljni proizvod smanjuju upalu i nadražaj sluznice.",
+      "img": "http://localhost:3000/images/broncamil.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ecomer 250 mg 60 kapsula",
+      "brand": "Natumin Pharma",
+      "price": "1504.00 ",
+      "info": "Ecomer kapsule su dodatak ishrani koji sadrži ulja iz ajkuline jetre, alkilglicerole, pa zahvaljujući njima jača imunitet. Štiti organizam od infekcija i prehlada.",
+      "img": "http://localhost:3000/images/ecomer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rehidran prašak 20 kesica",
+      "brand": "Hemofarm",
+      "price": "917.00",
+      "info": "Rehidran je prašak za pripremu oralnog rastvora koji se koristi za nadoknadu tečnosti i elektrolita. Koristi se u slučajevima lake do srednje teške dehidratacije ",
+      "img": "http://localhost:3000/images/rehidran.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Solgar Skin, Nails and Hair Formula 60 tableta",
+      "brand": "Solgar",
+      "price": "2029.00",
+      "info": "Solgar Skin, Nails and Hair Formula je kombinacija vitamina, aminokiselina i minerala koja popravlja stanje i izgled kože, kose i noktiju.",
+      "img": "http://localhost:3000/images/solgar.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Corega parts 30 tableta",
+      "brand": "Glaxosmithkline Cons",
+      "price": "530.00",
+      "info": "Corega parts tablete preporučuju se za čišćenje parcijalnih proteza sa metalnim delovima. ",
+      "img": "http://localhost:3000/images/corega.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Biofar vitamin C 1000 Acerola15 šumećih tableta",
+      "brand": "Biofar",
+      "price": "348.00",
+      "info": "Biofar vitamin C 1000 Acerola u osnovi sadrži ekstrakt tropske biljke američke višnje koja je poznata kao Acerola. Ovaj prirodni izvor vitamina C se veoma dobro iskorišćava u organizmu i namenjen je za jačanje otpornosti organizma odraslih osoba. ",
+      "img": "http://localhost:3000/images/biofarC.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ultra vitamin D 1000 IJ 96 tableta",
+      "brand": "Vitabiotics",
+      "price": "896.00",
+      "info": "Vitabiotics Ultra vitamin D3 sadrži vitamin D u obliku holekalciferola koji učestvuje u brojnim biohemijskim procesima u organizmu.",
+      "img": "http://localhost:3000/images/ultravitamin.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Probiotic Forte 10 kapsula",
+      "brand": "Hemofarm",
+      "price": "562.00",
+      "info": "Probiotic forte se preporučuje odraslima i deci u situacijama kada je potrebno obnoviti crevnu floru koja je već narušena unošenjem nekih patogenih virusa i bakterija, usled promenjene ili nepravilne ishrane.",
+      "img": "http://localhost:3000/images/probiotic.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Magnum 400 Max 20 kesica",
+      "brand": "Inpharm",
+      "price": "434.00",
+      "info": "Magnum 400 Max kesice, preparat sadrži mineral magnezijum i vitamin B6, koji olakšava absorpciju magnezijuma iz creva i pomaže njegov prolazak u ćelije.",
+      "img": "http://localhost:3000/images/magnum.jpg"
+    },
+    {
+      "id": 10,
+      "name": "K2D3 Viva, 30 kapsula",
+      "brand": "Abela Pharm",
+      "price": "1260.00",
+      "info": "Visoke doze vitamina D3 i K2 u preparatu K2D3® VIVA, prema preporukama, doprinose brzoj nadoknadi depoa vitamina D3 i pomažu u sprečavanju osteopenije i osteoporoze.",
+      "img": "http://localhost:3000/images/k2d3.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Biofar magnezijum kompleks 15 šumećih tableta",
+      "brand": "Biofar",
+      "price": "392.00",
+      "info": "Biofar magnezijum kompleks sadrži magnezijum u obliku citrata, koji predstavlja njegov najviše iskoristljiv oblik. ",
+      "img": "http://localhost:3000/images/biofarMg.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Laxomucil forte prašak 7 kesica",
+      "brand": "Hemofarm",
+      "price": "359.00",
+      "info": "Dijetetska vlakna su dragocena za stimulisanje peristaltike creva i upijanje štetnih materija crevnog sadržaja, list sene pojačava pokretljivost creva, laksantno dejstvo se ispoljava šest do 10 sati nakon primene.",
+      "img": "http://localhost:3000/images/laxomucil.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Magnum B6 375 mg 20 kesica",
+      "brand": "Inpharm",
+      "price": "434.00",
+      "info": "Magnum B6 kesice, preparat sadrži mineral magnezijum i vitamin B6, koji olakšava absorpciju magnezijuma iz creva i pomaže njegov prolazak u ćelije.",
+      "img": "http://localhost:3000/images/magnumB6.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Detrical 1000 60 tableta",
+      "brand": "Naturprodukt pharma",
+      "price": "603,50",
+      "info": "Detrical 1000 se prvenstveno koristi za nadoknadu Vitamina D. Pomaže održavanju zdravlja koštanog sistema, doprinosi normalnoj apsorpciji kalcijuma i fosfora u organizmu.",
+      "img": "http://localhost:3000/images/detrical1000.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bulardi 250 probiotik 10 kapsula",
+      "brand": "Abela Pharm",
+      "price": "448.00",
+      "info": "Bulardi probiotik je prirodni preparat koji utiče na otklanjanje loših bakterija i njihovih toksičnih produkata iz organizma. Sprečava pojavu dijareje, obnavlja sluzokožu i pojačava imunitet u crevima.",
+      "img": "http://localhost:3000/images/bulardi.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Centrum Men 30 tableta",
+      "brand": "Whitehall",
+      "price": "912.00",
+      "info": "Centrum Men tablete su dodatak ishrani i obezbeđuju vitamine, minerale i mikroelemente u optimalnim količinama za podršku zdravom načinu života odraslim muškaracima. ",
+      "img": "http://localhost:3000/images/centrum.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Arteroprotect Forte 20 kapsula",
+      "brand": "Abela Pharm",
+      "price": "760.00",
+      "info": "Arteroprotect Forte je dodatak ishrani namenjen pacijentima koji žele da snize povišen nivo ukupnog i lošeg (LDL) holesterola i da smanje rizik od ateroskleroze.",
+      "img": "http://localhost:3000/images/artero.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Collagen Super Beauty 60 tableta",
+      "brand": "Neo Cell Corporation",
+      "price": "1416.00",
+      "info": "Super Collagen Beauty je proizvod namenjen odraslim osobama kod kojih dolazi do smanjenja nivoa kolagena u organizmu.",
+      "img": "http://localhost:3000/images/colagen.jpg"
+    },
+    {
+      "id": 19,
+      "name": "GE 132 60 kapsula",
+      "brand": "Alphacaps",
+      "price": "4869.00",
+      "info": "Poremećajem oksido-redukcione ravnoteže organizma dolazi do ranijeg neurološkog starenja, neurološkog oboljevanja i pojave mnogih hroničnih bolesti.",
+      "img": "http://localhost:3000/images/ge132.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Imunoglukan P4H 30 kapsula",
+      "brand": "Medis",
+      "price": "1313.00",
+      "info": "Imunoglukan P4H sadrži prirodni polisaharid imunoglukan (beta – 1,3/1,6 – D- glukan) izolovan iz gljive bukovače (Pleurotus Ostreatus i vitamin C značajan prirodni antioksidans koji štiti ćelije od ošećenja izazvanih slobodnim radikalima i pomažu u podršci imunog sistema. ",
+      "img": "http://localhost:3000/images/imunoglukan.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Magnall Marine Mineral 30 kapsula",
+      "brand": "Abela Pharm",
+      "price": "200.00",
+      "info": "Magnall Marine Mineral je dijetetski suplement koji sadrži mineral magnezijum iz dva izvora i vitamin B6, koji deluje sinergijski sa magnezijumom.",
+      "img": "http://localhost:3000/images/magnal.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Cink Mineral Zn sa vitaminom C 30 kapsula",
+      "brand": "Abela Pharm",
+      "price": "287.00",
+      "info": "Cink mineral kao jedinstveni vitaminsko-mineralni kompleks cinka i vitamina C je prvenstveno namenjen stabilizaciji i normalnom funkcionisanju imunog sistema. ",
+      "img": "http://localhost:3000/images/zn.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Hipp instant kašica sa keksom 250 g",
+      "brand": "Hipp",
+      "price": "456.00",
+      "info": "Hipp instant kaša sa keksom predstavlja ogranski proizvod. Sadrži žitarice od celog zrna u kombinaciji sa keksom. ",
+      "img": "http://localhost:3000/images/hipp.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Sebamed baby penušava kupka 500 ml",
+      "brand": "Sebapharma",
+      "price": "1119.00",
+      "info": "Sebamed baby pena za kupanje je proizvod namenjen za čišćenje osetljive i suve kože beba i dece. ",
+      "img": "http://localhost:3000/images/sebamed.jpg"
+    },
+    {
+      "id": 25,
+      "name": "MaxMedica Pro Nerv kapsule",
+      "brand": "Mmglobal",
+      "price": "491.00",
+      "info": "Pro Nerv je prirodno rešenje za smirenje. Sadrži biljne ekstrakte matičnjaka, valerijane i gloga, koji sinergističkim efektom doprinose smanjenju napetosti, stresa, nervoze.",
+      "img": "http://localhost:3000/images/nerv.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Hipp kašica mešano povrće i krompir sa teletinom 190 g",
+      "brand": "Hipp",
+      "price": "224.00",
+      "info": "Hipp kaša integralne žitarice sa voćem predstavlja zdrav i ukusan dezert ili užinu namenjenu odojčadi uzrasta od 6. meseci.",
+      "img": "http://localhost:3000/images/hippkasa.jpg"
+    },
+    {
+      "id": 27,
+      "name": "CARDIOvitamin®, 10 kapsula",
+      "brand": "Abela Pharm",
+      "price": "250.00",
+      "info": "CARDIOvitamin® smanjuje rizik od ozbiljnih kardiovaskularnih događaja, koji mogu biti fatalni. ",
+      "img": "http://localhost:3000/images/cardiovit.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Klorane šampon od koprive 400 ml",
+      "brand": "Pierre Fabre",
+      "price": "1859,81",
+      "info": "Klorane šampon od koprive sadrži pažljivo odabranu vrstu koprive, koja je bogata seboregulatornim sastojkom.",
+      "img": "http://localhost:3000/images/klorane.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Uriage Xemose Cerat 200 ml",
+      "brand": "Laboratoires Dermatologiques d'Uriage",
+      "price": "2120.00",
+      "info": "Uriage Xemose emolijentni cerat je namenjen za negu veoma suve kože. ",
+      "img": "http://localhost:3000/images/uriage.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Vitamin C 1000 mg, 30 kesica",
+      "brand": "Abela Pharm",
+      "price": "357.00",
+      "info": "Vitamin C 1000 mg je dijetetski proizvod koji je u obliku praška i jednostavan je za primenu. ",
+      "img": "http://localhost:3000/images/vitaminC.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Terranova Life Drink šejk",
+      "brand": "Terranova",
+      "price": "3648.00",
+      "info": "Proteini graška i pirinča u kombinaciji sadrže sve potrebne esencijalne aminokiseline.",
+      "img": "http://localhost:3000/images/lifedrink.jpg"
+    },
+    {
+      "id": 32,
+      "name": "La Roche-Posay Vitamin C10 serum 30 ml",
+      "brand": "Roche-Posay",
+      "price": "3063,38",
+      "info": "Pure Vitamin C10 obnavljajući serum protiv bora. Jedinstveni obnavljajući serum protiv starenja kože sa visokom koncentracijom čistog vitamina C",
+      "img": "http://localhost:3000/images/roche.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Supradyn Energy 30 film tableta",
+      "brand": "Bayer Health Care",
+      "price": "904.00",
+      "info": "Proizvod Supradyn® Energija, film tablete je dodatak ishrani koji predstavlja dodatni izvor vitamina, minerala i koenzima Q10 u ishrani, a koji predstavlja nutritivnu podršku energetskom metabolizmu.",
+      "img": "http://localhost:3000/images/supradyn.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Immunita 20 kesica",
+      "brand": "MASPEX-GMW",
+      "price": "1078.00",
+      "info": "Immunita je dijetetski suplement jedinstvenog sastava, sa maksimalnim dozama aktivnih komponenti ( Crna zova - elderberry, Divizma, Cink, Selen, Južnoafrička muškatla, Vitamin D, Vitamin C, Rutin), koja potvrdjeno deluje na: snažan imuni sistem, otporan na viruse.",
+      "img": "http://localhost:3000/images/immunita.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Femibion 1, 28 film tableta",
+      "brand": "Merck",
+      "price": "1389.00",
+      "info": "Fembion 1 za trudnice sadrži folnu kiselinu, Metafolin®- aktivni oblik folne kiseline koju organizam može odmah da koristi, 9 neophodnih vitamina i jod.",
+      "img": "http://localhost:3000/images/femibion.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Dietpharm Omega 3 50 kapsula",
+      "brand": "Fidifarm",
+      "price": "550.00",
+      "info": "Omega-3 je dodatak ishrani koji se koristi za snižavanje nivoa triglicerida, ukupnog LDL-a. ",
+      "img": "http://localhost:3000/images/omega3.jpg"
+    },
+    {
+      "id": 37,
+      "name": "PharmaS Pro Beta Glukan 1275 mg, 30 kesica",
+      "brand": "Pharmas",
+      "price": "2760.00",
+      "info": "Pro Beta Glukan 1275 mg sadrži punu dnevnu dozu od čak 1275 mg visokoprečišćenog (min 85%) beta (1,3 /1,6)-d glukana, izolovanog  iz kvasca Saccharomyces cerevisiae, uz dodatak probiotika Bifidobacterium animalis ssp. lactis BLC1; i antioksidansa vitamina C, D i cinka u punoj dnevnoj dozi.",
+      "img": "http://localhost:3000/images/betaglukan.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Cartinorm + BIOcollagen, 20 kesica",
+      "brand": "GOODWILL",
+      "price": "1785.00",
+      "info": "Cartinorm + biocollagen dokazano povećava sintezu kolagena koji je glavni sastojak hrskavice.",
+      "img": "http://localhost:3000/images/carti.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Venodia plus 30 film tableta",
+      "brand": "Inpharm",
+      "price": "920.00",
+      "info": "Venodia plus koriste se kao pomoć kod hronične venske insuficijencije koja se prvo manifestuje bolom u nogama, osećajem teških, umornih nogu, svraba i peckanja, trnjenja i grčeva u nogama.",
+      "img": "http://localhost:3000/images/venodia.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Vule",
+      "email": "vule@123",
+      "password": "vule123"
+    },
+    {
+      "username": "marko",
+      "email": "marko@123",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "hana",
+      "email": "hana@123",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
